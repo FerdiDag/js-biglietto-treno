@@ -10,6 +10,7 @@ var discountUnderAge = (price * 20) / 100;
 console.log(discountUnderAge);
 //imposto lo sconto per passeggero anziano
 var discountOldAge = (price * 40) / 100;
+console.log(discountOldAge);
 
 
 
